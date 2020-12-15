@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ncs-exercise/static/css/main.85aac55d.chunk.css",
+    "main.js": "/ncs-exercise/static/js/main.c1296e6d.chunk.js",
+    "main.js.map": "/ncs-exercise/static/js/main.c1296e6d.chunk.js.map",
+    "runtime-main.js": "/ncs-exercise/static/js/runtime-main.98ec1634.js",
+    "runtime-main.js.map": "/ncs-exercise/static/js/runtime-main.98ec1634.js.map",
+    "static/css/2.43161462.chunk.css": "/ncs-exercise/static/css/2.43161462.chunk.css",
+    "static/js/2.1fc5d041.chunk.js": "/ncs-exercise/static/js/2.1fc5d041.chunk.js",
+    "static/js/2.1fc5d041.chunk.js.map": "/ncs-exercise/static/js/2.1fc5d041.chunk.js.map",
+    "static/js/3.0e9d5499.chunk.js": "/ncs-exercise/static/js/3.0e9d5499.chunk.js",
+    "static/js/3.0e9d5499.chunk.js.map": "/ncs-exercise/static/js/3.0e9d5499.chunk.js.map",
+    "index.html": "/ncs-exercise/index.html",
+    "static/css/2.43161462.chunk.css.map": "/ncs-exercise/static/css/2.43161462.chunk.css.map",
+    "static/css/main.85aac55d.chunk.css.map": "/ncs-exercise/static/css/main.85aac55d.chunk.css.map",
+    "static/js/2.1fc5d041.chunk.js.LICENSE.txt": "/ncs-exercise/static/js/2.1fc5d041.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/ncs-exercise/static/media/fa-solid-900.46fdbd2d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98ec1634.js",
+    "static/css/2.43161462.chunk.css",
+    "static/js/2.1fc5d041.chunk.js",
+    "static/css/main.85aac55d.chunk.css",
+    "static/js/main.c1296e6d.chunk.js"
+  ]
+}
