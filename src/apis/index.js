@@ -1,3 +1,3 @@
 export const testApis = {
-  get: () => require('./sample.json'),
+  get: () => Promise.resolve(require('./sample.json')),
 }
